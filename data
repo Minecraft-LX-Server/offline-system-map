@@ -1,0 +1,278 @@
+﻿[
+    {
+        "routes": [
+            {
+                "color": 13461699,
+                "name": "源启APM1线|Yuan Chii APM Line 1||1",
+                "number": "APM1",
+                "type": "train_light_rail",
+                "stations": [],
+                "durations": [],
+                "densities": [],
+                "circular": ""
+            },
+            {
+                "color": 13461699,
+                "name": "源启APM1线|Yuan Chii APM Line 1||2",
+                "number": "APM1",
+                "type": "train_light_rail",
+                "stations": [],
+                "durations": [],
+                "densities": [],
+                "circular": ""
+            },
+            {
+                "color": 1736143,
+                "name": "地铁法斯透线|Metro Fosetourve Line||2",
+                "number": "",
+                "type": "train_normal",
+                "stations": [],
+                "durations": [],
+                "densities": [],
+                "circular": ""
+            },
+            {
+                "color": 15272458,
+                "name": "源启轻铁|Yuan Chii Light Rail||453线北行",
+                "number": "453",
+                "type": "train_light_rail",
+                "stations": [],
+                "durations": [],
+                "densities": [],
+                "circular": ""
+            },
+            {
+                "color": 8744993,
+                "name": "源启公交|Yuan Chii Bus||southbound",
+                "number": "1",
+                "type": "train_light_rail",
+                "stations": [
+                    "-1863673380027226427_8744993"
+                ],
+                "durations": [],
+                "densities": [
+                    0
+                ],
+                "circular": ""
+            },
+            {
+                "color": 8744993,
+                "name": "源启公交|Yuan Chii Bus||northbound",
+                "number": "1",
+                "type": "train_light_rail",
+                "stations": [
+                    "-1863673380027226427_8744993"
+                ],
+                "durations": [],
+                "densities": [
+                    0
+                ],
+                "circular": ""
+            },
+            {
+                "color": 6872268,
+                "name": "纵贯本线|Longitudinal Line||往绿地联合",
+                "number": "",
+                "type": "train_normal",
+                "stations": [
+                    "7278978754766047535_6872268",
+                    "-1863673380027226427_6872268",
+                    "-4384627733606443559_6872268",
+                    "-4129769048934695436_6872268",
+                    "-5646226176841047107_6872268",
+                    "-6125944671446574082_6872268"
+                ],
+                "durations": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "densities": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "circular": ""
+            },
+            {
+                "color": 15272458,
+                "name": "源启轻铁|Yuan Chii Light Rail||453线南行",
+                "number": "453",
+                "type": "train_light_rail",
+                "stations": [],
+                "durations": [],
+                "densities": [],
+                "circular": ""
+            },
+            {
+                "color": 15378200,
+                "name": "橙线|Orange Line||1",
+                "number": "",
+                "type": "train_normal",
+                "stations": [],
+                "durations": [],
+                "densities": [],
+                "circular": ""
+            },
+            {
+                "color": 6291569,
+                "name": "藏红铁路|Saffron Railway||1",
+                "number": "",
+                "type": "train_normal",
+                "stations": [],
+                "durations": [],
+                "densities": [],
+                "circular": ""
+            },
+            {
+                "color": 1736143,
+                "name": "地铁法斯透线|Metro Fosetourve Line||1",
+                "number": "",
+                "type": "train_normal",
+                "stations": [],
+                "durations": [],
+                "densities": [],
+                "circular": ""
+            },
+            {
+                "color": 6872268,
+                "name": "纵贯本线|Longitudinal Line||往海山",
+                "number": "",
+                "type": "train_normal",
+                "stations": [
+                    "-6125944671446574082_6872268",
+                    "-5646226176841047107_6872268",
+                    "-4129769048934695436_6872268",
+                    "-4384627733606443559_6872268",
+                    "-1863673380027226427_6872268",
+                    "7278978754766047535_6872268"
+                ],
+                "durations": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "densities": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "circular": ""
+            },
+            {
+                "color": 15378200,
+                "name": "橙线|Orange Line||2",
+                "number": "",
+                "type": "train_normal",
+                "stations": [],
+                "durations": [],
+                "densities": [],
+                "circular": ""
+            }
+        ],
+        "positions": {
+            "-1863673380027226427_8744993": {
+                "x": 8,
+                "y": -1326,
+                "vertical": true
+            },
+            "7278978754766047535_6872268": {
+                "x": 492,
+                "y": -1001,
+                "vertical": false
+            },
+            "-1863673380027226427_6872268": {
+                "x": -18,
+                "y": -1384,
+                "vertical": true
+            },
+            "-4384627733606443559_6872268": {
+                "x": -7,
+                "y": -2434,
+                "vertical": true
+            },
+            "-4129769048934695436_6872268": {
+                "x": -4,
+                "y": -4939,
+                "vertical": true
+            },
+            "-5646226176841047107_6872268": {
+                "x": 5,
+                "y": -8121,
+                "vertical": true
+            },
+            "-6125944671446574082_6872268": {
+                "x": -1959,
+                "y": -12762,
+                "vertical": true
+            }
+        },
+        "stations": {
+            "-1863673380027226427": {
+                "name": "源启|Yuan Chii",
+                "color": 16766720,
+                "zone": 0,
+                "x": -16,
+                "z": -1368,
+                "connections": [
+                    "746285796550945300",
+                    "6205259216200373660"
+                ]
+            },
+            "7278978754766047535": {
+                "name": "海山|Hae Shan",
+                "color": 11417623,
+                "zone": 0,
+                "x": 495,
+                "z": -1005,
+                "connections": []
+            },
+            "-4384627733606443559": {
+                "name": "启德城|Kiter City Zone",
+                "color": 16747008,
+                "zone": 0,
+                "x": 17,
+                "z": -2327,
+                "connections": []
+            },
+            "-4129769048934695436": {
+                "name": "大森林一号|The First Forest",
+                "color": 5347,
+                "zone": 0,
+                "x": -2,
+                "z": -4935,
+                "connections": []
+            },
+            "-5646226176841047107": {
+                "name": "石龙|Shilong",
+                "color": 1275360,
+                "zone": 0,
+                "x": 17,
+                "z": -8140,
+                "connections": []
+            },
+            "-6125944671446574082": {
+                "name": "绿地联合|Greenfiled Uoion",
+                "color": 6412568,
+                "zone": 0,
+                "x": -2016,
+                "z": -12773,
+                "connections": []
+            }
+        },
+        "types": [
+            "train_normal",
+            "train_light_rail"
+        ]
+    }
+]
